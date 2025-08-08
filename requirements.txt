@@ -1,0 +1,13 @@
+insanely-fast-whisper
+accelerate
+bitsandbytes
+scipy
+sentencepiece
+spaces
+tiktoken
+pytest
+torch
+transformers
+yt-dlp
+moviepy
+langdetect
