@@ -1,7 +1,4 @@
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-
 # Video Transcription & Smart Summary
 
 Easily transcribe videos and generate smart, concise summaries using advanced AI models. Upload your own video or provide a YouTube link to get instant, high-quality transcriptions and summaries in the original language.
